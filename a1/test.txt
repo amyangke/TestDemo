@@ -4,4 +4,4 @@ modify 1->2
 modify 2->3
 modify 3->4
 
-modify 4->5
+modify 4->5modify 5-6
